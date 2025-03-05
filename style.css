@@ -1,0 +1,50 @@
+@font-face {
+    font-family: MinecraftSillyFont;
+    src: url(./src/font/Minecraftchmc-dBlX.ttf);
+}
+
+body {
+    background-color: #E2E2DE;
+}
+
+.divtitle {
+    width: 600px;
+    height: auto;
+    text-align: center;
+}
+
+.title_bread {
+    height: 20px;
+    width: auto;
+}
+
+h1, ul li, .githubrepo {
+    font-family: MinecraftSillyFont;
+}
+
+h1 {
+    font-size: 62px;
+    color: #363232;
+}
+
+h1:hover {
+    color: #544d4d;
+}
+
+ul li a {
+    font-size: 38px;
+    color: #85929e;
+}
+
+ul li a:hover {
+    color: #859e9d;
+}
+
+.githubrepo {
+    font-size: 34px;
+}
+
+#githubrepoimg {
+    width: 22px;
+    height: auto;
+}
