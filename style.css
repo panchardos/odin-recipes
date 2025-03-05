@@ -14,9 +14,12 @@ body {
     padding-left: 18px;
 }
 
-.title_bread {
-    height: 20px;
-    width: auto;
+.divtitle img {
+    position: absolute;
+    width: 60px;
+    height: auto;
+    top: 38px;
+    left: 600px;
 }
 
 h1, ul li, .githubrepo {
