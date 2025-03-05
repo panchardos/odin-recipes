@@ -8,9 +8,10 @@ body {
 }
 
 .divtitle {
-    width: 600px;
+    width: 720px;
     height: auto;
-    text-align: center;
+    text-align: left;
+    padding-left: 18px;
 }
 
 .title_bread {
