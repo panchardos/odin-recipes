@@ -45,10 +45,12 @@ ul li a:hover {
 }
 
 .githubrepo {
+    position: absolute;
     font-size: 34px;
+    translate: 2px 470px;
 }
 
-#githubrepoimg {
+#githubrepoimg, #heart{
     width: 22px;
     height: auto;
 }
